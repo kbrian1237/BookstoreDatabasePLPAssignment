@@ -17,7 +17,7 @@ The primary goal was to create a relational database that efficiently stores all
 ## Tools and Technologies
 
 * **MySQL:** For building and managing the database.
-* **Draw.io:** For visualizing the database schema and relationships (The model is presented in `image.png`).
+* **Draw.io:** For visualizing the database schema and relationships .
 
 ## Database Schema
 
